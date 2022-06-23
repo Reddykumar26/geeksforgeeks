@@ -60,7 +60,7 @@
 	
 
 	
-	Q21	Programe to print all postive and negative numbers in range ======== not done
+	Q21	Programe to print all postive and negative numbers in range 
 	
 	Q22	Programe to print all postive and negative numbers in list and  to print count of all postive and negative numbers in list	
 	
